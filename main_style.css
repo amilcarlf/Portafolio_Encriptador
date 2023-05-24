@@ -1,0 +1,43 @@
+header{
+    background-color: #171810;
+}
+/*.box1{}*/
+#logo{
+    width: 150px;
+    padding-left: 20px;
+}
+.barra_contacto{
+    display: inline;
+    position: absolute;
+    top: 9%;
+    right: 10%;
+}
+.contact_link{
+    text-transform: uppercase;
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+.barra_contacto .contact_link:hover{
+    color: #03FA6E;
+    text-decoration: underline;
+}
+main{
+    padding: 10px;
+    margin: 10px 20px;
+    align-content:center;
+    background: #aaaaaa;
+}
+.box2{
+    display: inline-block;
+    width: 55%;
+    padding: 10px;
+    background-color: #03FA6E;
+}
+.box3{
+    display: inline-block;
+    width: 35%;
+    padding: 10px;
+    background-color: #ffffff;
+}
